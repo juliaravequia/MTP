@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <complex.h>
 int main () {
-	double complex Z1, raiz;
+	double complex Z1, Z2, raiz;
 	double preal, pimag;
 	printf("Entre com o Real de Z1:"); scanf("%lf", &preal);
 	printf("Entre com o Imag de Z1:"); scanf("%lf", &pimag);
